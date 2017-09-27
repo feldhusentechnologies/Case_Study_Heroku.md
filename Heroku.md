@@ -1,2 +1,2 @@
-# Case_Study_Heroku.md
+# Case_Study_Heroku
 Case study of heroku  
